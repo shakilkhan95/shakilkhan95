@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Tafzal Hossain Shakil</h1>
 <h3 align="center">Web Designer | Speed Learner</h3>
-<h4 align="center">Learning Frontend web development</h4>
+<h4 align="center">Learning Frontend Web Development</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=shakilkhan95&color=red)
 
-Skills:HTML / CSS
+Skills:HTML / CSS / BOOTSTRAP
 
 </div>
 
@@ -20,7 +20,7 @@ Skills:HTML / CSS
 
 - 📝 I regularly write articles on [https://iamshakil.blogspot.com/](https://iamshakil.blogspot.com/)
 
-- 💬 Ask me about **HTML5, CSS3**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap5**
 
 - 📫 How to reach me **th.shakilkhan@gmail.com**
 
@@ -37,6 +37,7 @@ Skills:HTML / CSS
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br/>
 
