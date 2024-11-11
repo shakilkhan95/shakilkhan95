@@ -8,19 +8,19 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=shakilkhan95&color=red)
 
-Skills:HTML / CSS / BOOTSTRAP
+Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS
 
 </div>
 
 - 🔭 I’m currently learning frontend web development on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning html5, css3, javascript, bootstrap
+- 🌱 I’m currently learning html5, css3, javascript, bootstrap, tailwind css
 
 - 👨‍💻 All of my projects are available at [https://github.com/shakilkhan95](https://github.com/shakilkhan95)
 
 - 📝 I regularly write articles on [https://iamshakil.blogspot.com/](https://iamshakil.blogspot.com/)
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap5**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap5, Tailwind CSS**
 
 - 📫 How to reach me **th.shakilkhan@gmail.com**
 
@@ -38,6 +38,7 @@ Skills:HTML / CSS / BOOTSTRAP
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br/>
 
