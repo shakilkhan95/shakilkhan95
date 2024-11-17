@@ -1,26 +1,26 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Tafzal Hossain Shakil</h1>
-<h3 align="center">Web Designer | Speed Learner</h3>
+<h3 align="center">Web Developer | Speed Learner</h3>
 <h4 align="center">Learning Frontend Web Development</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=shakilkhan95&color=red)
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS
+Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / SASS
 
 </div>
 
 - 🔭 I’m currently learning frontend web development on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning html5, css3, javascript, bootstrap, tailwind css
+- 🌱 I’m currently learning html, css, bootstrap, tailwind css, sass, javascript
 
 - 👨‍💻 All of my projects are available at [https://github.com/shakilkhan95](https://github.com/shakilkhan95)
 
 - 📝 I regularly write articles on [https://iamshakil.blogspot.com/](https://iamshakil.blogspot.com/)
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap5, Tailwind CSS**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap5, Tailwind CSS, SASS**
 
 - 📫 How to reach me **th.shakilkhan@gmail.com**
 
@@ -39,6 +39,7 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <br/>
 
