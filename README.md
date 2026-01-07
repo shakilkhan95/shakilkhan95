@@ -12,7 +12,7 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / SASS
 
 </div>
 
-- 🔭 I’m currently learning frontend web development on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning frontend web development on [Hablu Programmer](https://www.programming-hero.com/)
 
 - 🌱 I’m currently learning html, css, bootstrap, tailwind css, sass, javascript
 
