@@ -51,14 +51,10 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / SASS
 ## GitHub Stats & Contribution
 
 <!-- Contribution Badges -->
-<img src="https://img.shields.io/github/commit-activity/m/shakilkhan95?style=for-the-badge&color=blue" alt="Contributions"/>
-<img src="https://img.shields.io/github/languages/top/shakilkhan95?style=for-the-badge&color=yellow" alt="Top Language"/>
-<img src="https://img.shields.io/github/stars/shakilkhan95?style=for-the-badge&color=orange" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/shakilkhan95?style=for-the-badge&color=green" alt="Forks"/>
 
-<br><br>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=shakilkhan95&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com/?user=shakilkhan95&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
 
@@ -78,8 +74,6 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / SASS
 <br/>
 <hr/>
 <br/>
-
-## Github Stats -
 
 <p align="center">
   <a href="https://github.com/shakilkhan95">
