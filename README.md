@@ -1,8 +1,10 @@
 ![I am Tafjal Hossain Shakil](https://github.com/shakilkhan95/shakilkhan95/blob/main/sk-in-desk.png)
 
-<h1 align="center">Hi 👋, I'm Tafjal Hossain Shakil</h1>
-<h3 align="center">Web Developer | Speed Learner</h3>
-<h4 align="center">Learning Frontend Web Development</h4>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+TAFJAL+HOSSAIN+SHAKIL;Full+Stack+Developer;Building+Cool+Things+😉;Making+The+Web+Look+Better+😎;Let's+Code+Together!&center=true&size=30">
+  </a>
+</h1>
 
 <div align="center">
 
