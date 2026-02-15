@@ -45,16 +45,35 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / SASS
 
 <br/>
 
-## Best Repo -
+<div align="center">
 
-<!--[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/weblitical)-->
 
-<!--<p align="left">
-  <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>-->
+## GitHub Stats & Contribution
+
+<!-- Contribution Badges -->
+<img src="https://img.shields.io/github/commit-activity/m/shakilkhan95?style=for-the-badge&color=blue" alt="Contributions"/>
+<img src="https://img.shields.io/github/languages/top/shakilkhan95?style=for-the-badge&color=yellow" alt="Top Language"/>
+<img src="https://img.shields.io/github/stars/shakilkhan95?style=for-the-badge&color=orange" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/shakilkhan95?style=for-the-badge&color=green" alt="Forks"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=shakilkhan95&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=shakilkhan95&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
+
+</div>
+<br/>
+<br/>
+<h1 align="center">📈 Contribution Graph</h1>
+
+<div align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=shakilkhan95&custom_title=🔥%20Contribution%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=00D9FF&area=true&theme=react-dark" 
+       alt="Contribution Graph"
+       width="98%"
+  />
+</div>
 
 <br/>
 <hr/>
